@@ -1,0 +1,36 @@
+h2 {
+	border: solid 2px blue ;
+	width: 200px ;
+	font-family: "Times New Roman" ;
+	background-color: blue ; 
+	border-radius: 10px ; 
+	
+}
+h1 {
+	font-size: 100 px ;
+    margin-right: 100px ;	
+	text-align: center ;
+}
+
+body {
+	background-image: url("img1.png"); 
+	background-size: cover ;
+	
+
+}
+
+body {
+  overflow: scroll ;
+}
+
+h3 {
+	border: dotted 2px red ;
+	width: 200px ;
+	font-family: "Times New Roman" ;
+	background-color: yellow ; 
+	border-radius: 10px ; 
+}
+
+img {
+	width: 300px ; 
+}
